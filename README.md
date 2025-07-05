@@ -47,10 +47,9 @@ Welcome to my GitHub profile! I'm a passionate developer and a 3rd-year B.Tech s
 
 ## 📌 Featured Projects
 
-- 🔗 [Biogas Monitoring System](https://github.com/manojkandula2303/biogas-monitoring-system)
-- 🔗 [Emotion-Based Music Recommender](https://github.com/manojkandula2303/emotion-music-recommender)
-- 🔗 [Emergency Shelter Finder](https://github.com/manojkandula2303/emergency-shelter-finder)
-- 🔗 [Food Donation App](https://github.com/manojkandula2303/food-donation-app)
+- 🔗 [Biogas Monitoring System](https://github.com/manojkandula2303/Smart-Waste-Management)
+- 🔗 [DSA Learner](https://github.com/manojkandula2303/DSA)
+- 🔗 [Window View](https://github.com/manojkandula2303/weather-forecast)
 
 ---
 
